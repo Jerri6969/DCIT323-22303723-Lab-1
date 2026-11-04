@@ -1,2 +1,4 @@
 # DCIT323-22303723-Lab-1
 DCIT323 LAB 1
+Name: Jerry Miriam Dzidzor
+ID: 22303723
